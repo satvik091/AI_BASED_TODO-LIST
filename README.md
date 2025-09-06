@@ -1,27 +1,49 @@
-# 🌈 AI Task Adventure
+# AI Task Adventure
 
 A gamified, AI-powered task management application built with Streamlit. Transform your productivity into an engaging adventure with smart task prioritization, achievement systems, and beautiful analytics.
 
-![AI Task Adventure](assets/screenshots/main-dashboard.png)
+## Features
 
-## ✨ Features
+- Smart Task Management with AI-powered guidance
+- Gamification system with points and achievements
+- Beautiful analytics and productivity insights
+- Accessibility-first design (WCAG compliant)
+- Mobile-responsive interface
+- Export functionality for task data
 
-- **Smart Task Management**: AI-powered task prioritization and guidance
-- **Gamification**: Points, achievements, and streak tracking
-- **Beautiful Analytics**: Interactive charts and productivity insights
-- **Accessibility First**: WCAG compliant design for all users
-- **Multi-platform**: Works on desktop, tablet, and mobile
-
-## 🚀 Quick Start
+## Quick Start
 
 ### Local Development
 ```bash
-# Clone the repository
 git clone https://github.com/yourusername/ai-task-adventure.git
 cd ai-task-adventure
-
-# Install dependencies
 pip install -r requirements.txt
-
-# Run the app
 streamlit run app.py
+```
+## Deployment
+
+This app can be deployed on:
+- Railway
+- Render
+- Streamlit Cloud
+- Heroku
+- Any platform supporting Python/Streamlit
+
+## Tech Stack
+
+- Python 3.8+
+- Streamlit
+- Plotly for visualizations
+- Pandas for data processing
+- Custom CSS for accessibility
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Submit a pull request
+
+## License
+
+MIT License - see LICENSE file for details
